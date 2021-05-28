@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167096273176",
+    "project_id": "nguyentrannhathung-tk",
+    "storage_bucket": "nguyentrannhathung-tk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167096273176:android:522a82e9fa1a447739366d",
+        "android_client_info": {
+          "package_name": "com.example.a18036971_nguyentrannhathung_ktthuongki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167096273176-oe1ehhakeberkubv958fqldho053gn92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt_vNn6gEP9X7rOzQUopfqRwUNUCHkXqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167096273176-oe1ehhakeberkubv958fqldho053gn92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
